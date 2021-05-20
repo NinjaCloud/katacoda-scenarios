@@ -1,3 +1,3 @@
-This environment has a `launch.sh`{{execute}}
+Start Your Kubernetes Cluster with `launch.sh`{{execute}}
 
-You can get with `kubectl get nodes`{{execute}}
+Now you can check the nodes `kubectl get nodes`{{execute}}

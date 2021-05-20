@@ -1,0 +1,26 @@
+{
+    "title": "Kubernetes",
+    "description": "minikube",
+    "details": {
+      "steps": [
+        {
+          "title": "Step 1",
+          "text": "step1.md"
+        }
+      ],
+      "intro": {
+        "text": "intro.md",
+        "code" : "init.sh"
+      },
+      "finish": {
+        "text": "finish.md"
+      }
+    },
+    "environment": {
+      "hideintro": true,
+      "uilayout": "terminal-terminal"
+    },
+    "backend": {
+      "imageid": "ubuntu:2004"
+    }
+  }

@@ -1,11 +1,17 @@
 {
     "title": "Kubernetes",
     "description": "Multi node Kubernetes cluster configured using Kubeadm",
+    "noindex": true,
     "details": {
       "steps": [
         {
-          "title": "Step 1",
-          "text": "step1.md"
+            "title": "Step 1 - Start",
+            "text": "step1.md"      
+        },
+        {
+            "title": "Quetion 1 - Core Concept",
+            "text": "step2.md",
+            "verify": "step2-verify.sh"
         }
       ],
       "finish": {
