@@ -1,1 +1,1 @@
-[ $(kubectl get ns mynamespace -ojsonpath='{.metadat.name}') = "mynamespace" ] && echo "Correct" || echo "Incorrect"
+[ $(kubectl get ns mynamespace -ojsonpath='{.metadata.name}') = "mynamespace" ] && echo "Correct" || echo "Incorrect"
