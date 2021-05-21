@@ -7,12 +7,7 @@
         {
             "title": "Step 1 - Start",
             "text": "step1.md"      
-        },
-        {
-            "title": "Quetion 1 - Core Concept",
-            "text": "step2.md",
-            "verify": "step2-verify.sh"
-        }
+        }  
       ],
       "finish": {
         "text": "finish.md"
